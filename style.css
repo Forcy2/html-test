@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'coolvetica rg' ;
+    src: url(fonts/coolvetica\ rg.otf);
+}
+
+
+
+
 body{
     background-color: #121212;
 color: white;
@@ -8,3 +16,9 @@ a{
 .zelena{
     color: #00ff5e;
 }
+
+h1  {
+    font-family: 'coolvetica rg', sans-serif;
+    font-size: 6em;
+}
+
